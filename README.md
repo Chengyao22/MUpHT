@@ -16,10 +16,10 @@ This is the official repository for MUpHT for Clasification. The code structure 
 
 
 ## Scripts
-  *  MUpHT
-  ```bash
-  python main_forget.py --save_dir ${save_dir} --model_path ${origin_model_path} --unlearn MUpHT --class_to_replace 1 ${forgetting class}
-    ```
+*  MUpHT
+```bash
+python main_forget.py --save_dir ${save_dir} --model_path ${origin_model_path} --unlearn MUpHT --class_to_replace 1 ${forgetting class}
+```
 
 
 ## BibTeX
