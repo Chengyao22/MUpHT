@@ -2,7 +2,7 @@
 
 # pH-Strips for Selective Forgetting: A Blunt but Fast Diagnostic Baseline for Machine Unlearning
 
-![Venue:CVPR 2026](https://img.shields.io/badge/Venue-CVPR%202026%20-blue)(https://openaccess.thecvf.com/content/CVPR2026/papers/Qian_pH-Strips_for_Selective_Forgetting_A_Blunt_but_Fast_Diagnostic_Baseline_CVPR_2026_paper.pdf)
+[![Venue:CVPR 2026](https://img.shields.io/badge/Venue-CVPR%202026%20-blue)](https://openaccess.thecvf.com/content/CVPR2026/papers/Qian_pH-Strips_for_Selective_Forgetting_A_Blunt_but_Fast_Diagnostic_Baseline_CVPR_2026_paper.pdf)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
